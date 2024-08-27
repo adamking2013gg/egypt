@@ -1,0 +1,20 @@
+body{
+    background-color: peachpuff;
+}
+nav ul{
+    background-color: crimson;
+    border-style: solid;
+    border-color: cyan;
+    border-width: 10px;
+    padding: 10px;
+    border-radius: 10px;
+}
+nav ul li{
+    list-style:none ;
+    display: inline;
+    margin: 10px;
+    color:white ;
+}
+nav ul li a{
+     text-decoration: none;
+}
